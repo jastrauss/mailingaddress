@@ -9,7 +9,7 @@ mailingaddress is simple python library that converts raw address strings into t
 
 1. Install mailingaddress with [pip]. In a shell,
 
-    [pip]: <http://pip.readthedocs.org/en/latest/quickstart.html>
+[pip]: <http://pip.readthedocs.org/en/latest/quickstart.html>
     ```sh
     $ pip install usaddress
     ```
